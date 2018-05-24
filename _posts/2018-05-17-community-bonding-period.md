@@ -4,7 +4,7 @@ title: GSoC 2018 Community Bonding Period
 image: /img/hello_world.jpeg
 ---
 
-I was really excited on getting seleted for GSoC 2018. Here is the link to [my project abstract](https://summerofcode.withgoogle.com/projects/#5926207925780480).
+I was really excited on getting selected for GSoC 2018. Here is the link to [my project abstract](https://summerofcode.withgoogle.com/projects/#5926207925780480).
 My mentors are Jared Watts and Travis Nielsen. Both of them are super cool and they help me a lot. They are the best mentors.
 
 I started late for the community bonding period as I had my final semester exams till 5th of May and i informed my mentors about it.
@@ -20,7 +20,7 @@ Bellow are the tasks that i was to take care during Community Bonding Period:
 
 I opened this [pull request](https://github.com/rook/rook/pull/1614) which resolved [this issue](https://github.com/rook/rook/issues/1502).
 
-I compleated my other tasks so i started working on the design doc which was supposed to be done in the coding period and I discussed that in the Rook community meeting.
+I completed my other tasks so i started working on the design doc which was supposed to be done in the coding period and I discussed that in the Rook community meeting.
 I read a lot about Kubernetes concepts regarding storage and NFS during this period.
 
 Here are few videos that are very much helpful:
