@@ -10,13 +10,13 @@ My mentors are Jared Watts and Travis Nielsen. Both of them are super cool and t
 I started late for the community bonding period as I had my final semester exams till 5th of May and i informed my mentors about it.
 
 Bellow are the tasks that i was to take care during Community Bonding Period:
-- [ x ] Join the Slack community.
-- [ x ] Attend one of the community meetings.
-- [ x ] Get development environment and tools set up.
-- [ x ] Build local changes to produce runnable artifacts.
-- [ x ] Run locally built code in Minikube environment.
-- [ x ] Run and pass unit and integration tests.
-- [ x ] Submit a pull request, integrate feedback and have it approved and merged to master.
+- [x] Join the Slack community.
+- [x] Attend one of the community meetings.
+- [x] Get development environment and tools set up.
+- [x] Build local changes to produce runnable artifacts.
+- [x] Run locally built code in Minikube environment.
+- [x] Run and pass unit and integration tests.
+- [x] Submit a pull request, integrate feedback and have it approved and merged to master.
 
 I opened this [pull request](https://github.com/rook/rook/pull/1614) which resolved [this issue](https://github.com/rook/rook/issues/1502).
 
