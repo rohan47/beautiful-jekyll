@@ -1,0 +1,86 @@
+==================================================================
+https://keybase.io/rohan47
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rohangupta.dev
+  * I am rohan47 (https://keybase.io/rohan47) on keybase.
+  * I have a public key with fingerprint 49C9 7EE3 A35C 2292 CF5D  63A0 0B35 B736 DD03 F4FA
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010166284b2e42660c56dcbe2dd515f97d3ac96a0e7e4372b7efa6d60b2998180e4b0a",
+      "fingerprint": "49c97ee3a35c2292cf5d63a00b35b736dd03f4fa",
+      "host": "keybase.io",
+      "key_id": "0b35b736dd03f4fa",
+      "kid": "010166284b2e42660c56dcbe2dd515f97d3ac96a0e7e4372b7efa6d60b2998180e4b0a",
+      "uid": "2d6362d17dc7db6e6925c5dfccb19c19",
+      "username": "rohan47"
+    },
+    "merkle_root": {
+      "ctime": 1576562619,
+      "hash_meta": "e28af3f16a59fda0e7f6fec78eba0210f4a21b0a33a24256a6fcaa01f974eff3",
+      "seqno": 13682243
+    },
+    "revoke": {
+      "sig_ids": [
+        "db9eac9faeb5e7d3ec812432fcb63b03caa2c0c5f514a8bd0dbc8e859c96bb570f"
+      ]
+    },
+    "service": {
+      "hostname": "rohangupta.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1576562623,
+  "expire_in": 157680000,
+  "prev": "23bf54dd3f0e732f4bb8bdc407d7d605fe20a7cae69d5c6f09ea4c8db02b859e",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtU2tsFUUYvfQBF2qlhoe2UKJbbAiUdnd2d3a31FJUoBoSSCgp0DTXmZ2Z3utt
+7172bmtrbXijFiSFoiRQrCgPAQvUigK2UFDeDwNay0tAHiVVghhQSuThLEhC9K/7
+Z7PfnO9855xvpyY+2uPtVlRdt/7b+efquh3qxJ7CLmtPpYAtUiFkVgpB+uBFiwmN
+OL5ggAiZgiiJEoRAVzCgCoBQNFVITEwBIaqkMkMjMjINiESqUUXWANYoQ5BAEQPD
+0CVdpAoWkZAmsECoiNphOxByOK1imIZGqYxk1QTAACZTCZSRKGJZxZoMCRFlpjC3
+0W9F3A4uDqMITQ9YvMY/fA/l/Rf/P+sufUAHuDoIiKQRUyMYUmgA1VQJM00sGaZk
+uMAItUOohHK0bflRSNGEqjShhNrBYuqzLctxszWdgIuQVA2qEEDJ4P5QxO8roQ7i
+jRToiMlMgkg1GHHFMcioqekUIxFIIlMQkLguWUZAASpEkJkIiRL3o1DGZC4jQqeF
+LD5BhjoAiswl2LTMClJ3eiRQxGOLCJkFAsEGba3gETBEsUp5HNTUJd4AmImhjEWZ
+EwOTx8ZUSUE6JiLBpk51lW8OYqxqIhMKq9x5dlnAfEDvburxBIpKww5KJ7SMywrb
+lmOZVjE/8ztOOJLphuNUhF3wGxT7/qHx4UCI8D+Fd5RROxKwQtwKR/4rNyCnCbQ8
+HLCpLxB6WNZF/rhz+Di+LxkzVSFEZjxD7knBmFswFVEjGl+yyigQkWYivkiimpCJ
+BkWKqRMsAswt0seC1LlOVMQ5eXoh5JTaVKjq9W6UHOPp5vUk938uhu7z9N4Rar5C
+9K1fPLpdsVHu1fL06pnwqPJrSoJnrkbGHKm9/nbOE7ElM7Xx29jkLyeN2ji6cc1X
+pZ9HdZGyxIy+BxfNfqG5mnSM+7h5WkPcwrhry/Vrpw/cnjgpVRiV/dTzXcG2TiG2
+Z/aNwMqD653dqf2bhi9oGbvEH7Wsfn9n1p8xKV313xxO758+PnfNraS4unnDO88n
+vHg3vOiHGSM39WjNLTh8e6aoDNyQXFvzy5RZF8T4LVeSvK+uy7vb1tXevjmpLe1I
+6eZ34vfs7/3zgEHhl7MLTo0A67Xm8h6j+547e9Of4es3ZGvlxH4T4IqYgqTESieY
+teDovIY5iedn1G6G0e2N0y9Yo9tuRPULxtxL+O3iyo/Gvr56XJ/uueq4G/ZxuyQb
+LWm4NPT7Za8sqh+Qx5qPJ/i390w9HXNif/yQ7qs+27kj8c4f9/9q+b0268yBCU/e
+7Vg3taYwJTO8ISPkbdhYfnLjxZshb3Xy6hV9p/palgsVataZWWPrpnvbCsHlYYZ/
+cce+ASez848OXDy5ce2JYdVb8ou/zv30maYZZXNOXkNPd730XeOxn0awXeZ7e+OG
+Hks5G73M2Tn7Ks253DmS7W4qH5Q/eMJBmnxq9vzMYZ8szSscXNXpu/VhRuqR14Tq
+1tidOVltLHziatGba1sv7VG2b3m/WD3esule4/19S5sOHc6RxiT0WXO97tm9C6fs
+zp/7QcGqmjsV3bdF/9jeETxUv6tk+hnZ+1beqIHq3w==
+=dvJI
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rohan47
+
+==================================================================
+
